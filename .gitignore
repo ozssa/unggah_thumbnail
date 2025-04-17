@@ -1,0 +1,9 @@
+# Mengabaikan folder upload gambar
+assets/uploads/
+
+# Mengabaikan file konfigurasi sementara
+*.log
+*.tmp
+
+# Mengabaikan file database backup
+*.sql
